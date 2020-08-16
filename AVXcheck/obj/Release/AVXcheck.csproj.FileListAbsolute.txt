@@ -1,0 +1,9 @@
+C:\Users\chris\source\repos\AVXcheck\AVXcheck\bin\Release\AVXcheck.exe.config
+C:\Users\chris\source\repos\AVXcheck\AVXcheck\bin\Release\AVXcheck.exe
+C:\Users\chris\source\repos\AVXcheck\AVXcheck\bin\Release\AVXcheck.pdb
+C:\Users\chris\source\repos\AVXcheck\AVXcheck\obj\Release\AVXcheck.Form1.resources
+C:\Users\chris\source\repos\AVXcheck\AVXcheck\obj\Release\AVXcheck.Properties.Resources.resources
+C:\Users\chris\source\repos\AVXcheck\AVXcheck\obj\Release\AVXcheck.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\AVXcheck\AVXcheck\obj\Release\AVXcheck.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\AVXcheck\AVXcheck\obj\Release\AVXcheck.exe
+C:\Users\chris\source\repos\AVXcheck\AVXcheck\obj\Release\AVXcheck.pdb
